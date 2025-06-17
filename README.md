@@ -38,11 +38,11 @@
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anndaanhar&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Statistik GitHub Ananda"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndaanhar&layout=compact&theme=tokyonight" alt="Bahasa Teratas Ananda"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anndaanhr&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Statistik GitHub Ananda"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndaanhr&layout=compact&theme=tokyonight" alt="Bahasa Teratas Ananda"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anndaanhar&theme=tokyonight" alt="Streak Kontribusi GitHub Ananda" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anndaanhr&theme=tokyonight" alt="Streak Kontribusi GitHub Ananda" />
 </p>
 
 <br>
@@ -50,7 +50,7 @@
 ### 🐍 Grafik Kontribusi Ular
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anndaanhar/anndaanhar/output/github-contribution-grid-snake.svg" alt="Animasi Ular Kontribusi">
+  <img src="https://raw.githubusercontent.com/anndaanhr/anndaanhr/output/github-contribution-grid-snake.svg" alt="Animasi Ular Kontribusi">
 </p>
 
 <br>
